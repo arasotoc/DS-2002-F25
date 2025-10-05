@@ -1,0 +1,6 @@
+student_id,major,GPA,is_cs_major,credits_taken
+1,CS,3.6,Yes,18.0
+2,History,3.6,No,15.0
+3,Art,3.1,No,21.0
+4,CS,3.3,Yes,15.0
+5,Physics,3.7,No,15.0
